@@ -1,0 +1,122 @@
+[
+  {
+    "playerId": 1,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSnsnZEywrK4aS56D12Vssf4Omiv-VBBdnhDdMoH0Gxpmvwtdk-cJhlMd7ztewqVckpj2HViGB61ZyAJ0A",
+    "role": {
+      "state": "All-Rounder",
+      "batting": "Left-handed",
+      "bowling": "Slow left-arm orthodox"
+    },
+    "biddingPrice": 12000000
+  },
+  {
+    "playerId": 2,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://i.ibb.co.com/yp1447L/ben.jpg",
+    "role": {
+      "state": "All-Rounder",
+      "batting": "Left-handed",
+      "bowling": "Medium-fast"
+    },
+    "biddingPrice": 25000000
+  },
+  {
+    "playerId": 3,
+    "name": "Ravindra Jadeja",
+    "country": "India",
+    "image": "https://i.ibb.co.com/gmkytR2/ravindra.jpg",
+    "role": {
+      "state": "All-Rounder",
+      "batting": "Left-handed",
+      "bowling": "Slow left-arm orthodox"
+    },
+    "biddingPrice": 18000000
+  },
+  {
+    "playerId": 4,
+    "name": "Moeen Ali",
+    "country": "England",
+    "image": "https://i.ibb.co.com/g7cJY2q/ali.jpg",
+    "role": {
+      "state": "All-Rounder",
+      "batting": "Right-handed",
+      "bowling": "Off-spin"
+    },
+    "biddingPrice": 15000000
+  },
+  {
+    "playerId": 5,
+    "name": "Hardik Pandya",
+    "country": "India",
+    "image": "https://i.ibb.co.com/DrXyvn5/hardik.jpg",
+    "role": {
+      "state": "All-Rounder",
+      "batting": "Right-handed",
+      "bowling": "Medium-fast"
+    },
+    "biddingPrice": 20000000
+  },
+  {
+    "playerId": 6,
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "image": "https://i.ibb.co.com/G0cHnHB/andre.jpg",
+    "role": {
+      "state": "All-Rounder",
+      "batting": "Right-handed",
+      "bowling": "Medium-fast"
+    },
+    "biddingPrice": 25000000
+  },
+  {
+    "playerId": 7,
+    "name": "Dwayne Bravo",
+    "country": "West Indies",
+    "image": "https://i.ibb.co.com/YTtjLxG/brabo.jpg",
+    "role": {
+      "state": "All-Rounder",
+      "batting": "Right-handed",
+      "bowling": "Medium-fast"
+    },
+    "biddingPrice": 15000000
+  },
+  {
+    "playerId": 8,
+    "name": "Chris Gayle",
+    "country": "West Indies",
+    "image": "https://i.ibb.co.com/7zNFdHf/gayle.jpg",
+    "role": {
+      "state": "All-Rounder",
+      "batting": "Left-handed",
+      "bowling": "Slow left-arm orthodox"
+    },
+    "biddingPrice": 10000000
+  },
+  {
+    "playerId": 9,
+    "name": "Shoaib Malik",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/Wc00bLc/shoaib.jpg",
+    "role": {
+      "state": "All-Rounder",
+      "batting": "Right-handed",
+      "bowling": "Off-spin"
+    },
+    "biddingPrice": 8000000
+  },
+  {
+    "playerId": 10,
+    "name": "Imad Wasim",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/Y3rhn0y/imad.jpg",
+    "role": {
+      "state": "All-Rounder",
+      "batting": "Left-handed",
+      "bowling": "Slow left-arm orthodox"
+    },
+    "biddingPrice": 12000000
+  }
+]
