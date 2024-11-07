@@ -28,5 +28,4 @@ Welcome to the Cricket Player Auction Platform, an interactive website designed 
 
 - Newsletter Subscription: Stay updated with the latest news through a dedicated newsletter section in the footer.
 
-  Repository Link: https://github.com/programming-hero-web-course1/b10a7-dream-11-AnisulHaqueNiloy
   Live Link : https://dream-11-by-anisul-haque.netlify.app/
